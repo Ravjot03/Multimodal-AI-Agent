@@ -57,6 +57,7 @@ Full code is available here - [Code](https://github.com/Ravjot03/Multimodal-AI-A
 
 The multimodal AI agent was tested by querying for real-time financial information and relevant web search data. Below are sample outputs for a query regarding Tesla stock:
 
+![image](https://github.com/user-attachments/assets/6b8d6211-1d0c-4f3e-9846-25c83d3210c1)
 
 
 The output demonstrates the agent’s capability to retrieve and present structured information, including tables for financial data and bullet points for news summaries, ensuring clarity and ease of interpretation.
